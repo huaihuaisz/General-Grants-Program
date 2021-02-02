@@ -106,16 +106,16 @@ The purpose of this grant is to deliver Raze Substrate Modules and cross-chain b
 
 ### Team Experience
 
-**Justin Kellison**
+**Justin Kellison**  
 Justin is an active marketer in the crypto industry from 4 years, and has worked for a few multi-million dollar DeFi projects. He (and his professional marketing team) has increased product visibility and has shown good results.
 
-**Ryuhei Matsuda**
+**Ryuhei Matsuda**  
 Ryuhei is adept at javascript, go, java, c++, and Rust, Ryuhei has proven his ability over the years to help architects and lead large projects or join existing teams with equal ease. Ryuhei was previously CTO at Trade Pharma Network and Lead Developer at BlocX. He graduated from the University of Tokyo.
 
-**Jark Ling**
+**Jark Ling**  
 Jark is an expert in the architecture and design of Blockchain applications and Substrate pallets. He has 8 years of experience in software development and he is the community contributor in Linux.
 
-**Micheal Andersen**
+**Micheal Andersen**  
 Micheal is a full-stack developer with 6 years experience in software development and technology management. He has plenty of experience in Software Architecture and currently focuses on blockchain development and cross-chain technologies.
 
 ### Team Code Repos
